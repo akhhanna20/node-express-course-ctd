@@ -1,0 +1,27 @@
+{
+  "id": "6896128a5487e9cc634ef97c",
+  "title": "Node Express Course",
+  "description": "No description available",
+  "learningObjectives": [
+    "No learning objectives"
+  ],
+  "finalProjectDetails": {
+    "overview": "No final project specified.",
+    "planningResources": [],
+    "submissionInstructions": "No submission instructions provided.",
+    "requirements": [
+      "No requirements specified."
+    ]
+  },
+  "createdBy": {
+    "name": "Hanna Akhramchuk",
+    "githubUsername": "akhhanna20"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": "https://github.com/Code-the-Dream-School/node-express-course",
+  "remoteGithubUrl": "https://github.com/akhhanna20/node-express-course-ctd",
+  "createdAt": "2025-08-08T15:06:50.171Z",
+  "updatedAt": "2025-08-08T15:06:51.270Z",
+  "lessonCount": 17
+}
